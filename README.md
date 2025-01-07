@@ -31,7 +31,7 @@ Prerequisites:
 
 Documentation:
 * [Terraform Documentation](https://developer.hashicorp.com/terraform/docs)
-* [Azure Documentation]([https://docs.microsoft.com/azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/))
+* [Azure Documentation](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/)
 
 ## Support
 
